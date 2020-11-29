@@ -10,6 +10,7 @@ The repository contains two test cases for logging into a Trello account.
 2. Maven 3.6.3 installed:
 [Full installation guide](https://www.baeldung.com/install-maven-on-windows-linux-mac)
 3. ChromeDriver: [Download](http://chromedriver.storage.googleapis.com/index.html?path=87.0.4280.20/)
+4. Google Chrome ver. 87+: [Download](https://www.google.com/intl/pl_pl/chrome/)
 
 ## How to run
 
